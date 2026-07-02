@@ -13,7 +13,7 @@ A sleek and efficient Android application designed to help businesses and indivi
 
 Built With
 
-* **Language:
+* **Language: ** Java/Kotlin
 * **IDE:** Android Studio
 * **Build System:** Gradle
 ---
