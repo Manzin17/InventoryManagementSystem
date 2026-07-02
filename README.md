@@ -9,11 +9,9 @@ A sleek and efficient Android application designed to help businesses and indivi
 * **Search & Filter:** Quickly find items using a dynamic search bar or filter by category/stock availability.
 * **Clean UI/UX:** Built following modern Android design guidelines for a smooth user experience.
 
----
-
 Built With
 
-* **Language: ** Java/Kotlin
+* Language: Java/Kotlin
 * **IDE:** Android Studio
 * **Build System:** Gradle
 ---
